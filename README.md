@@ -6,7 +6,7 @@
 
 <h1 align="center">Bem-vindo ao meu perfil no GitHub <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, Eu sou o Silvan Felipe!</h1>
 <h3 align="center">🌐 Entusiasta de IA | 🤖 Praticante de Machine Learning</h3>
-<img align="right"  src="https://github.com/SilvanFelipe/SilvanFelipe/blob/main/amimateCoding.gif" alt="ilustração dev programando" width="500px" />
+<img align="right"  src="https://github.com/SilvanFelipe/SilvanFelipe/blob/main/amimateCoding.gif" alt="ilustração dev programando" width="450px" />
 <br>
 
 
