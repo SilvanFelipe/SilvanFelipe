@@ -50,10 +50,9 @@ Sou um estudante de Engenharia de Computação na Universidade Federal do Ceará
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SilvanFelipe&theme=algolia&show_icons=true&hide_border=true&count_private=true" alt="SilvanFelipe's Stats" height="160px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SilvanFelipe&theme=algolia&show_icons=true&hide_border=true&layout=compact" alt="SilvanFelipe's Top Languages" height="160px" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SilvanFelipe&theme=algolia&show_icons=true&hide_border=false&count_private=true&bg_color=00000000" alt="SilvanFelipe's Stats" height="160px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SilvanFelipe&theme=algolia&show_icons=true&hide_border=false&layout=compact&size_weight=0.5&count_weight=0.5&bg_color=00000000" alt="SilvanFelipe's Top Languages" height="160px" />
 </p>
-
 
 ---
 
